@@ -12,6 +12,7 @@
     - [Dataset](#dataset)
 - [Important Links](#further-reading)
 - [Screenshots](#-screenshots)
+- [Team]
 - [License](#-license)
 
 
@@ -33,28 +34,13 @@ Experiment results suggested that for the first approach of input data *Random F
 
 ***
 
-## What are we doing
+## 🎓 What are we doing
 Our plan is to introduce the __Long Short Term Memory(LSTM)__ and __XgBoost__ model to hopefully achieve better accuracy on overall performance. 
 
 Also we will be comparing the performance of LSTM, and XgBoost with previously proved performance of SVM, ANN, Naive Bayes, and Random Forest by implementing these six prediction models over the dataset of various stocks.
 
 ***
 
-## How to commit
-1. Clone the repository to your local machine by typing the following command in your terminal 
-
-```
-git clone https://github.com/samacker77/Major-Project-Final.git
-
-```
-2. Create your own branch (Never commit directly to *master*) by typing the following command in your terminal
-
-```
-git checkout <branch_name>
-
-```
-
-***
 
 ## 📙 Base Research Papers
 
@@ -87,7 +73,7 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 ***
 
-## Further Reading
+## 📚 Further Reading
 
 * [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 * [Support Vector Machine](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
@@ -128,7 +114,18 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 
+## 👫 Team
+1. [Samar Srivastava](samarsrivastava.me)
+2. [Mohak Kulshrestha](https://github.com/MohakKul)
+3. [Saurabh Arya](saurabharya.me)
+4. Kashvi Agarwal
+***
 
+## 🧐 Mentor
+
+### Mr. Munish Khanna, Head Of Department, CSE, HCST, Farah
+
+***
 
 ## 📜 License
 This software is licensed under the [GPU License](https://github.com/samacker77/Major-Project-Final/blob/master/LICENSE.md) 
