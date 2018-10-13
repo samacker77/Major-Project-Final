@@ -10,13 +10,12 @@
     - [IDE](#ide)
     - [Libraries](#libraries)
     - [Dataset](#dataset)
-- [Important Links](#important-links)
+- [Important Links](#further-reading)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 
-## Introduction
+## 💡 Introduction
 In 2014, Xinjie Di, an SCPD student from Apple Inc. submitted a paper which focused on predicting stock price trend for a company in the near future. The feature space was derived from the time series of the stock itself and was concerned with potential movement of past price. Tree algorithm was applied to feature selection and it suggests a subset of stock technical indicators are critical for predicting the stock trend.
 
 Experiment results suggested an accuracy of more than 70% on predicting 3-10 day average price trend with SVM algorithm.
@@ -65,7 +64,7 @@ git checkout <branch_name>
 
 ***
 
-## Technology Stack
+## 💻 Technology Stack
 
 1. ### Editor
 
@@ -88,18 +87,14 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 ***
 
-## Important Links
+## Further Reading
 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-
+* [Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+* [Support Vector Machine](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+* [Random Forest](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+* [Artificial Neural Network](https://www.analyticsvidhya.com/blog/2014/10/introduction-neural-network-simplified/)
+* [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+* [Long Short Term Memory](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)
 
 
 ***
@@ -109,15 +104,7 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 
-
 ***
-
-## 💬 Contributing
-
-
-
-
-
 
 
 
@@ -144,4 +131,4 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 ## 📜 License
-This software is licensed under the [MIT](https://github.com/Major-Project-Final/master/LICENSE)
+This software is licensed under the [GPU License](https://github.com/Major-Project-Final/master/LICENSE)CODE
