@@ -32,11 +32,18 @@ The first approach for input data involves computation of ten technical paramete
 
 Experiment results suggested that for the first approach of input data *Random Forest* outperforms other three prediction models on overall performance. Experimental results also show that the performance of all the prediction models improve when these technical parameters are represented as trend deterministic data.
 
+***
 
 ### What are we doing
 Our plan is to introduce the __Long Short Term Memory(LSTM)__ and __XgBoost__ model to hopefully achieve better accuracy on overall performance. 
 
 Also we will be comparing the performance of LSTM, and XgBoost with previously proved performance of SVM, ANN, Naive Bayes, and Random Forest by implementing these six prediction models over the dataset of various stocks.
 
+***
 
 ### How to commit
+1. Clone the repository to your local machine by typing the following command in your terminal 
+'''
+git clone https://github.com/samacker77/Major-Project-Final.git
+
+'''
