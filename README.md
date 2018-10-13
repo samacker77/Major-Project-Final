@@ -1,18 +1,18 @@
 # Comparing Machine Learning Algorithms for stock prediction and stock index movement using trend deterministic data preparation techniques.
 
 ## 🚩 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#-introduction)
 - [What are we doing](#what-are-we-doing)
-- [How to commit](#how-to-commit)
-- [Base Research Papers](#base-research-papers)
-- [Technology Stack](#technology-stack)
+- [How to commit](#-how-to-commit)
+- [Base Research Papers](#-base-research-papers)
+- [Technology Stack](#-technology-stack)
     - [Editor](#editor)
     - [IDE](#ide)
     - [Libraries](#libraries)
     - [Dataset](#dataset)
 - [Important Links](#further-reading)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [Screenshots](#-screenshots)
+- [License](#-license)
 
 
 ## 💡 Introduction
