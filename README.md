@@ -13,6 +13,7 @@
 - [Important Links](#further-reading)
 - [Screenshots](#-screenshots)
 - [Team](#-team)
+- [Mentor](#-mentor)
 - [License](#-license)
 
 
