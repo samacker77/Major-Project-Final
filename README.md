@@ -68,3 +68,12 @@ git checkout <branch_name>
 ## Technology Stack
 
 1. ### Editor
+
+For code editing creating files we are using the following editors:
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text 3](https://www.sublimetext.com/3)
+
+2. ### IDE
+
+For development, training, deployment of the models, we are using [Jupyter Notebook](http://jupyter.org/) along with [Anaconda](https://www.anaconda.com/) Integrated Development Environment
+
