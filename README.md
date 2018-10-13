@@ -57,7 +57,7 @@ git checkout <branch_name>
 
 ***
 
-## Base Research Papers
+## 📙 Base Research Papers
 
 1. [Xinjie Di, Stock Trend Prediction with Technical Indicators using SVM](https://drive.google.com/file/d/16UR4ixLFIvLkimLu5G3Mc_jr3sDVa-0e/view?usp=sharing)
 
@@ -75,5 +75,73 @@ For code editing creating files we are using the following editors:
 
 2. ### IDE
 
-For development, training, deployment of the models, we are using [Jupyter Notebook](http://jupyter.org/) along with [Anaconda](https://www.anaconda.com/) Integrated Development Environment
+For development, training, deployment of the models, we are using [Jupyter Notebook](http://jupyter.org/) along with [Anaconda](https://www.anaconda.com/) Integrated Development Environment.
 
+3. ### Libraries
+
+* Numpy
+* Pandas
+* scikit-learn
+* matplotlib
+* keras
+* tensorflow
+
+***
+
+## Important Links
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+
+
+***
+
+## 🐾 Screenshots
+
+
+
+
+
+***
+
+## 💬 Contributing
+
+
+
+
+
+
+
+
+
+
+
+***
+
+## 🚀 Results
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
+## 📜 License
+This software is licensed under the [MIT](https://github.com/Major-Project-Final/master/LICENSE)
