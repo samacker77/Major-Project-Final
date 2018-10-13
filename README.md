@@ -96,9 +96,6 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 
-
-***
-
 ## 🚀 Results
 
 
@@ -121,7 +118,7 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 4. Kashvi Agarwal
 ***
 
-## 🧐 Mentor
+## 🤯 Mentor
 
 ### Mr. Munish Khanna, Head Of Department, CSE, HCST, Farah
 
