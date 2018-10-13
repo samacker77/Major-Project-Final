@@ -43,7 +43,8 @@ Also we will be comparing the performance of LSTM, and XgBoost with previously p
 
 ### How to commit
 1. Clone the repository to your local machine by typing the following command in your terminal 
-'''
+
+```
 git clone https://github.com/samacker77/Major-Project-Final.git
 
-'''
+```
