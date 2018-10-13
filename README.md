@@ -12,7 +12,6 @@
     - [Dataset](#dataset)
 - [Important Links](#further-reading)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 
