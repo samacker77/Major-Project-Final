@@ -16,7 +16,7 @@
 - [License](#-license)
 
 
-### Introduction
+## Introduction
 In 2014, Xinjie Di, an SCPD student from Apple Inc. submitted a paper which focused on predicting stock price trend for a company in the near future. The feature space was derived from the time series of the stock itself and was concerned with potential movement of past price. Tree algorithm was applied to feature selection and it suggests a subset of stock technical indicators are critical for predicting the stock trend.
 
 Experiment results suggested an accuracy of more than 70% on predicting 3-10 day average price trend with SVM algorithm.
@@ -34,14 +34,14 @@ Experiment results suggested that for the first approach of input data *Random F
 
 ***
 
-### What are we doing
+## What are we doing
 Our plan is to introduce the __Long Short Term Memory(LSTM)__ and __XgBoost__ model to hopefully achieve better accuracy on overall performance. 
 
 Also we will be comparing the performance of LSTM, and XgBoost with previously proved performance of SVM, ANN, Naive Bayes, and Random Forest by implementing these six prediction models over the dataset of various stocks.
 
 ***
 
-### How to commit
+## How to commit
 1. Clone the repository to your local machine by typing the following command in your terminal 
 
 ```
@@ -57,7 +57,7 @@ git checkout <branch_name>
 
 ***
 
-### Base Research Papers
+## Base Research Papers
 
 1. [Xinjie Di, Stock Trend Prediction with Technical Indicators using SVM](https://drive.google.com/file/d/16UR4ixLFIvLkimLu5G3Mc_jr3sDVa-0e/view?usp=sharing)
 
@@ -65,6 +65,6 @@ git checkout <branch_name>
 
 ***
 
-### Technology Stack
+## Technology Stack
 
-1. ## Editor
+1. ### Editor
