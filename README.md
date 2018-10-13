@@ -3,17 +3,17 @@
 ## 🚩 Table of Contents
 - [Introduction](#introduction)
 - [What are we doing](#what-are-we-doing)
-- [How to commit](#-how-to-commit)
-- [Base Research Papers](#-base-research-papers)
-- [Technology Stack](#-technology-stack)
-    - [Editor](#-editor)
-    - [IDE](#-ide)
-    - [Libraries](#-libraries)
-    - [Dataset](#-dataset)
-- [Important Links](#-important-links)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [How to commit](#how-to-commit)
+- [Base Research Papers](#base-research-papers)
+- [Technology Stack](#technology-stack)
+    - [Editor](#editor)
+    - [IDE](#ide)
+    - [Libraries](#libraries)
+    - [Dataset](#dataset)
+- [Important Links](#important-links)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## Introduction
