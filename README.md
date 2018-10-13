@@ -5,7 +5,7 @@
 - [What are we doing](#what-are-we-doing)
 - [How to commit](#-how-to-commit)
 - [Base Research Papers](#-base-research-papers)
-- [Usage](#-usage)
+- [Technology Stack](#-technology-stack)
     - [Editor](#-editor)
     - [IDE](#-ide)
     - [Libraries](#-libraries)
@@ -48,3 +48,23 @@ Also we will be comparing the performance of LSTM, and XgBoost with previously p
 git clone https://github.com/samacker77/Major-Project-Final.git
 
 ```
+2. Create your own branch (Never commit directly to *master*) by typing the following command in your terminal
+
+```
+git checkout <branch_name>
+
+```
+
+***
+
+### Base Research Papers
+
+1. [Xinjie Di, Stock Trend Prediction with Technical Indicators using SVM](https://drive.google.com/file/d/16UR4ixLFIvLkimLu5G3Mc_jr3sDVa-0e/view?usp=sharing)
+
+2. [Jigar Patel, Sahil Shah, Priyank Thakkar, K. Kotecha, Predicting stock and stock price index movement using Trend Deterministic Data Preparation and machine learning techniques](https://drive.google.com/file/d/1PJA8xqVKFXLMcQmhvBWS7Huw6ab-AX6h/view?usp=sharing)
+
+***
+
+### Technology Stack
+
+1. ## Editor
