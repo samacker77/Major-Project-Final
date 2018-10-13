@@ -131,4 +131,4 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 ## 📜 License
-This software is licensed under the [GPU License](https://github.com/Major-Project-Final/master/LICENSE) 
+This software is licensed under the [GPU License](https://github.com/samacker77/Major-Project-Final/blob/master/LICENSE.md) 
