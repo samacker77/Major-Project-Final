@@ -95,11 +95,7 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 * [Random Forest](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 * [Artificial Neural Network](https://www.analyticsvidhya.com/blog/2014/10/introduction-neural-network-simplified/)
 * [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
-* []
-* []
-* []
-* []
-
+* [Long Short Term Memory](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)
 
 
 ***
@@ -109,10 +105,12 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 
-
 ***
 
 ## 💬 Contributing
+* [Code of Conduct](https://github.com/samacker77/Major-Project-Final/master/docs/CODE_OF_CONDUCT.md)
+* [Contributing guideline](https://github.com/samacker77/Major-Project-Final/master/docs/CONTRIBUTING.md)
+* [Commit convention](https://github.com/samacker77/Major-Project-Final/master/docs/COMMIT_MESSAGE_CONVENTION.md)
 
 
 
