@@ -107,16 +107,6 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 ***
 
-## 💬 Contributing
-* [Code of Conduct](https://github.com/samacker77/Major-Project-Final/tree/master/docs/CODE_OF_CONDUCT.md)
-* [Contributing guideline](https://github.com/samacker77/Major-Project-Final/tree/master/docs/CONTRIBUTING.md)
-* [Commit convention](https://github.com/samacker77/Major-Project-Final/tree/master/docs/COMMIT_MESSAGE_CONVENTION.md)
-
-
-
-
-
-
 
 
 
@@ -142,4 +132,4 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 ## 📜 License
-This software is licensed under the [MIT](https://github.com/Major-Project-Final/master/LICENSE)
+This software is licensed under the [GPU License](https://github.com/Major-Project-Final/master/LICENSE)CODE
