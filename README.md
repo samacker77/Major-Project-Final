@@ -52,17 +52,17 @@ Also we will be comparing the performance of LSTM, and XgBoost with previously p
 
 ## 💻 Technology Stack
 
-1. ### Editor
+* ### Editor
 
 For code editing creating files we are using the following editors:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Sublime Text 3](https://www.sublimetext.com/3)
 
-2. ### IDE
+* ### IDE
 
 For development, training, deployment of the models, we are using [Jupyter Notebook](http://jupyter.org/) along with [Anaconda](https://www.anaconda.com/) Integrated Development Environment.
 
-3. ### Libraries
+* ### Libraries
 
 * Numpy
 * Pandas
