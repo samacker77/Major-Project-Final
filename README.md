@@ -12,7 +12,7 @@
     - [Dataset](#dataset)
 - [Important Links](#further-reading)
 - [Screenshots](#-screenshots)
-- [Team]
+- [Team](#-team)
 - [License](#-license)
 
 
