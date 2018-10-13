@@ -108,9 +108,9 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 ***
 
 ## 💬 Contributing
-* [Code of Conduct](https://github.com/samacker77/Major-Project-Final/master/docs/CODE_OF_CONDUCT.md)
-* [Contributing guideline](https://github.com/samacker77/Major-Project-Final/master/docs/CONTRIBUTING.md)
-* [Commit convention](https://github.com/samacker77/Major-Project-Final/master/docs/COMMIT_MESSAGE_CONVENTION.md)
+* [Code of Conduct](https://github.com/samacker77/Major-Project-Final/tree/master/docs/CODE_OF_CONDUCT.md)
+* [Contributing guideline](https://github.com/samacker77/Major-Project-Final/tree/master/docs/CONTRIBUTING.md)
+* [Commit convention](https://github.com/samacker77/Major-Project-Final/tree/master/docs/COMMIT_MESSAGE_CONVENTION.md)
 
 
 
