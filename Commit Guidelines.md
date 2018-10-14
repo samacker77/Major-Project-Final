@@ -1,6 +1,6 @@
-###Guidlines to be followed for pushing commits
+# Guidlines to be followed for pushing commits
 
-# Presentations
+## Presentations
 * Name of PPTs should follow the following convention:
 ```
 XX-Presentation DD month YYYY
