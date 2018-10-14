@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 =======
 - [Mentor](#-mentor)
+- [Guidlines](#guidlines)
 >>>>>>> master
 - [License](#-license)
 
@@ -129,6 +130,12 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 ### Mr. Munish Khanna, Head Of Department, CSE, HCST, Farah
 
 ***
+
+## Guidlines
+Please follow the following [guidlines](https://github.com/samacker77/Major-Project-Final/blob/master/Commit_guidlines.md) in order to commit to the repository.
+
+***
+
 
 ## 📜 License
 This software is licensed under the [GPU License](https://github.com/samacker77/Major-Project-Final/blob/master/LICENSE.md) 
