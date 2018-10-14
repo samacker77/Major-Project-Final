@@ -40,9 +40,14 @@ Experiment results suggested that for the first approach of input data *Random F
 ***
 
 ## 🎓 What are we doing
-Our plan is to introduce the __Long Short Term Memory(LSTM)__ and __XgBoost__ model to hopefully achieve better accuracy on overall performance. 
 
-Also we will be comparing the performance of LSTM, and XgBoost with previously proved performance of SVM, ANN, Naive Bayes, and Random Forest by implementing these six prediction models over the dataset of various stocks.
+In our initial research we found out that efficiency in predicting stock price movements and their trends maybe improved if the prediction model could “remember” the historical movement of the stocks.
+
+General prediction models that are used in the previously described research papers like Naive Bayes, Support Vector Machines, Random Forest, etc., can only take in consideration the most recent previous input received to the model.
+
+Our motive is to implement the Long Short Term Memory networks in the prediction on stock price movements and their trends, as LSTM networks have  internal contextual state cells that act as long-term or short-term memory cells.
+
+The output of the LSTM network is modulated by the state of these cells. This is a very important property when we need the prediction of the neural network to depend on the historical context of inputs, rather than only on the very last input.
 
 ***
 
