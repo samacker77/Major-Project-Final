@@ -14,6 +14,7 @@
 - [Screenshots](#-screenshots)
 - [Team](#-team)
 - [Mentor](#-mentor)
+- [Guidelines](#guidelines)
 - [License](#-license)
 
 
@@ -126,6 +127,12 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 ### Mr. Munish Khanna, Head Of Department, CSE, HCST, Farah
 
 ***
+
+## Guidelines
+Please follow the following [guidelines](https://github.com/samacker77/Major-Project-Final/blob/SamarSrivastava/Commit%20Guidelines.md) in order to commit to the repository.
+
+***
+
 
 ## 📜 License
 This software is licensed under the [GPU License](https://github.com/samacker77/Major-Project-Final/blob/master/LICENSE.md) 
