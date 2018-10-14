@@ -6,11 +6,12 @@
 - [How to commit](#-how-to-commit)
 - [Base Research Papers](#-base-research-papers)
 - [Technology Stack](#-technology-stack)
+	- [Programming Language](#programming-language)
     - [Editor](#editor)
     - [IDE](#ide)
     - [Libraries](#libraries)
     - [Dataset](#dataset)
-- [Important Links](#further-reading)
+- [Further Reading](#further-reading)
 - [Screenshots](#-screenshots)
 - [Team](#-team)
 - [Mentor](#-mentor)
@@ -53,6 +54,10 @@ Also we will be comparing the performance of LSTM, and XgBoost with previously p
 ***
 
 ## 💻 Technology Stack
+
+* ### Programming Language
+
+Python3.6 is the programming language used in the experiment.
 
 * ### Editor
 
