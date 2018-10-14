@@ -1,5 +1,7 @@
 # Comparing Machine Learning Algorithms for stock prediction and stock index movement using trend deterministic data preparation techniques.
 
+## If you're into presentations rather than readme files, we'd suggest you to check out the project [presentation](https://github.com/samacker77/Major-Project-Final/blob/SamarSrivastava/Presentations/01%20-%20Presentation%2015%20Oct%202018.pptx)
+
 ## 🚩 Table of Contents
 - [Introduction](#-introduction)
 - [What are we doing](#what-are-we-doing)
