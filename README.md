@@ -13,11 +13,8 @@
 - [Important Links](#further-reading)
 - [Screenshots](#-screenshots)
 - [Team](#-team)
-<<<<<<< HEAD
-=======
 - [Mentor](#-mentor)
 - [Guidlines](#guidlines)
->>>>>>> master
 - [License](#-license)
 
 
