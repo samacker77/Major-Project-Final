@@ -14,7 +14,7 @@
 - [Screenshots](#-screenshots)
 - [Team](#-team)
 - [Mentor](#-mentor)
-- [Guidlines](#guidlines)
+- [Guidelines](#guidelines)
 - [License](#-license)
 
 
@@ -129,7 +129,7 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 ***
 
 ## Guidelines
-Please follow the following [guidelines](https://github.com/samacker77/Major-Project-Final/blob/master/Commit_guidlines.md) in order to commit to the repository.
+Please follow the following [guidelines](https://github.com/samacker77/Major-Project-Final/blob/SamarSrivastava/Commit%20Guidelines.md) in order to commit to the repository.
 
 ***
 
