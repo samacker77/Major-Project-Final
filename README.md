@@ -126,9 +126,9 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 
 ## 👫 Team
-1. [Samar Srivastava](samarsrivastava.me)
+1. [Samar Srivastava](http://samarsrivastava.me)
 2. [Mohak Kulshrestha](https://github.com/MohakKul)
-3. [Saurabh Arya](saurabharya.me)
+3. [Saurabh Arya](http://saurabharya.me)
 4. Kashvi Agarwal
 
 
