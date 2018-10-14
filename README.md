@@ -147,4 +147,4 @@ Please follow the following [guidelines](https://github.com/samacker77/Major-Pro
 
 
 ## 📜 License
-This software is licensed under the [GPU License](https://github.com/samacker77/Major-Project-Final/blob/master/LICENSE.md) 
+This software is licensed under the [GNU General Public License v3.0](https://github.com/samacker77/Major-Project-Final/blob/master/LICENSE.md) 
