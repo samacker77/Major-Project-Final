@@ -5,7 +5,6 @@
 ## 🚩 Table of Contents
 - [Introduction](#-introduction)
 - [What are we doing](#what-are-we-doing)
-- [How to commit](#-how-to-commit)
 - [Base Research Papers](#-base-research-papers)
 - [Technology Stack](#-technology-stack)
 	- [Programming Language](#programming-language)
@@ -13,7 +12,7 @@
     - [IDE](#ide)
     - [Libraries](#libraries)
     - [Dataset](#dataset)
-- [Further Reading](#further-reading)
+- [Further Reading](#-further-reading)
 - [Screenshots](#-screenshots)
 - [Team](#-team)
 - [Mentor](#-mentor)
@@ -84,6 +83,17 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 * matplotlib
 * keras
 * tensorflow
+
+* ### Dataset
+
+All the dataset will be used from quandl.com.
+Quandl is a platform for financial, economic, and alternative data that serves investment professionals. Quandl sources data from over 500 publishers. All Quandl's data are accessible via an API. API access is possible through packages for multiple programming languages including R, Python, Matlab.
+
+We will be using stock price dataset of OHLC format of the following companies to train and test our prediction models:
+
+1. Google(GOOGL)
+2. Apple (AAPL)
+3. Amazon (AMZN)
 
 ***
 
