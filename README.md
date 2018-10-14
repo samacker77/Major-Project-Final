@@ -131,8 +131,8 @@ For development, training, deployment of the models, we are using [Jupyter Noteb
 
 ***
 
-## Guidlines
-Please follow the following [guidlines](https://github.com/samacker77/Major-Project-Final/blob/master/Commit_guidlines.md) in order to commit to the repository.
+## Guidelines
+Please follow the following [guidelines](https://github.com/samacker77/Major-Project-Final/blob/master/Commit_guidlines.md) in order to commit to the repository.
 
 ***
 
